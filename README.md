@@ -46,7 +46,8 @@ java Main
 ```
 
 ## Capturas de pantalla
-(/home/mike/proyectosJava/manipulacion de Arboles/CAPTURAS/Captura de pantalla_20260927_211504.png)
+### Ejecución en consola
+[Ejecución en consola](capturas/ejecucion.png)
 
 ## Video de sustentación
 > https://youtu.be/WCZqCYsRAc4
